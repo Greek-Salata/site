@@ -11,3 +11,5 @@ tags:
   - Emulators
   - Εξομοίωση
 ---
+
+{% include cs-emulators.md %}
