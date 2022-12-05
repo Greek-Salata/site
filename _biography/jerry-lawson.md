@@ -1,7 +1,7 @@
 ---
 author: egwpetroc
 title: "Jerry Lawson"
-image_url: /images/atari-2600.jpg
+image_url: /images/jerry-lawson.png
 caption: o Jerry Lawson ήταν ο μηχανικός που πρωτοστάτησε τις αφαιρούμενες κασέτες για τις οικιακές κονσόλες.
 categories:
   - Βιογραφία
