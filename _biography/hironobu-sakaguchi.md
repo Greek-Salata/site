@@ -9,4 +9,4 @@ tags:
   - Hironobu Sakaguchi
 ---
 
-{% include hironobu-sakaguchi.md %}
+{% include bio-sakaguchi.md %}
